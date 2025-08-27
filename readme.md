@@ -12,8 +12,7 @@
 
 <!-- Profile Views & Stars Counter -->
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=as000010000&style=for-the-badge&color=blue&label=Profile%20Views)
+
   ![GitHub Stars](https://img.shields.io/github/stars/as000010000?style=for-the-badge&color=blueviolet&label=Total%20Stars&logo=github)
   
 </div>
