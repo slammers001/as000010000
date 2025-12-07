@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=as000010000&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20playground%20👿&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=as000010000&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20MR L%20GOTCHA%20👿&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <!-- Typing Animation -->
@@ -165,7 +165,7 @@ const as000010000 = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-⭐ **Star my repos if you find them useful!** ⭐
+⭐ **Star MR L!** ⭐
 
 </div>
 
