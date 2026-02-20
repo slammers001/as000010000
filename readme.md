@@ -164,9 +164,9 @@ const as000010000 = {
 <div align="center">
 
 ### 🎯 GitHub Achievements
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="200" alt="Quickdraw">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="200" alt="Pull Shark">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="200" alt="Galaxy Brain">
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
