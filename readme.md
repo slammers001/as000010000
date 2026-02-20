@@ -11,11 +11,17 @@
 </div>
 
 <!-- Profile Views & Stars Counter -->
-<div align="center">
-
+<div align="left">
+  
   ![GitHub Stars](https://img.shields.io/github/stars/as000010000?style=for-the-badge&color=blueviolet&label=Total%20Stars&logo=github)
   
 </div>
+
+
+  <a href="https://snowbasestudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Snowbase_Studio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Visit Snowbase Studio" />
+  </a>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -166,15 +172,6 @@ const as000010000 = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-</div>
-
-## 🌐 Web Development
-
-<div align="center">
-  <a href="https://snowbasestudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Snowbase_Studio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Visit Snowbase Studio" />
-  </a>
-  <p>Click above to visit my web development studio where we create amazing digital experiences!</p>
 </div>
 
 <!-- Animated Footer -->
