@@ -84,13 +84,15 @@ const as000010000 = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=as000010000&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as000010000&layout=compact&theme=default&langs_count=8&bg_color=ffffff&hide_border=true" alt="Top Languages" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=default&hide_border=true&background=ffffff" alt="GitHub Streak" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as000010000&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=as000010000&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=as000010000&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=as000010000&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=as000010000&theme=transparent&utcOffset=8)
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=transparent&hide_border=true&background=ffffff" alt="GitHub Streak" />
 </div>
 
 <!-- Animated Divider -->
