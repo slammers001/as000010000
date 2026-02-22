@@ -1,6 +1,5 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=as000010000&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20MR L%20GOTCHA%20👿&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00FFA3,100:007CF0&height=220&section=header&text=AS000010000&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=60" />
 </div>
 
 <!-- Typing Animation -->
@@ -164,12 +163,10 @@ const as000010000 = {
 
 
 </div>
-
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=100&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00FFA3,100:007CF0&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
-
 
 <div align="center">
   <b>Thanks for visiting my profile! Have a great day! 👿</b>
