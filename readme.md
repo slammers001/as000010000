@@ -98,14 +98,17 @@ const as000010000 = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--
 ## 🏆 GitHub Trophies
 
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=as000010000&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&title=Commits,Repositories,Stars,Followers,Issues,PullRequest&text-color=000000" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="Trophies" />
 </div>
 
-<!-- Animated Divider -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 ## 📈 Contribution Graph
 
@@ -113,15 +116,10 @@ const as000010000 = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=as000010000&theme=react&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<!-- GitHub Stats Cards -->
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=as000010000&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=default&hide_border=true&background=ffffff" />
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--
 ## 📌 Featured Projects
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -137,8 +135,8 @@ const as000010000 = {
 </div>
 
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 ## 🤝 Connect with Me
 
